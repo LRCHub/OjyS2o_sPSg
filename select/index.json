@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Aurora（feat. 柊人）",
+  "base_artist": "AZU",
+  "createdAt": "2026-02-10T13:49:46.217553Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aurora (feat. RØRY)",
+      "artist": "K-391, RØRY",
+      "has_synced": true,
+      "path": "select/01_Aurora_(feat._RØRY)_K-391,_RØRY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aurora (feat. José González)",
+      "artist": "Zero 7 feat. José González",
+      "has_synced": true,
+      "path": "select/02_Aurora_(feat._José_González)_Zero_7_feat._José_González.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aurora (feat. Shion Lee)",
+      "artist": "Kirara Magic",
+      "has_synced": true,
+      "path": "select/03_Aurora_(feat._Shion_Lee)_Kirara_Magic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aurora (feat. Anna Yvette)",
+      "artist": "Electro-Light & Tobu",
+      "has_synced": true,
+      "path": "select/04_Aurora_(feat._Anna_Yvette)_Electro-Light_&_Tobu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aurora (feat. RØRY)",
+      "artist": "K-391",
+      "has_synced": true,
+      "path": "select/05_Aurora_(feat._RØRY)_K-391.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aurora (feat. Crudo Means Raw)",
+      "artist": "Juanes",
+      "has_synced": true,
+      "path": "select/06_Aurora_(feat._Crudo_Means_Raw)_Juanes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Polyphasic Sleep I) Aurora (feat. Kyle Erich & Duane Hazell)",
+      "artist": "Hellions",
+      "has_synced": true,
+      "path": "select/07_Polyphasic_Sleep_I)_Aurora_(feat._Kyle_Erich_&_Duane_Hazell)_Hellions.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aurora (feat. Vic Schoen and His Orchestra)",
+      "artist": "The Andrews Sisters",
+      "has_synced": false,
+      "path": "select/08_Aurora_(feat._Vic_Schoen_and_His_Orchestra)_The_Andrews_Sisters.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "AURORA (feat. Crush)",
+      "artist": "Penomeco",
+      "has_synced": true,
+      "path": "select/09_AURORA_(feat._Crush)_Penomeco.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "AURORA (feat. Crush)",
+      "artist": "PENOMECO, Crush",
+      "has_synced": true,
+      "path": "select/10_AURORA_(feat._Crush)_PENOMECO,_Crush.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "AURORA (feat. Crush) (AURORA ) (feat. Crush)",
+      "artist": "PENOMECO",
+      "has_synced": true,
+      "path": "select/11_AURORA_(feat._Crush)_(AURORA_)_(feat._Crush)_PENOMECO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aurora (feat. Turbilhão de Ritmos)",
+      "artist": "Maurício Pereira/Turbilhão de Ritmos",
+      "has_synced": false,
+      "path": "select/12_Aurora_(feat._Turbilhão_de_Ritmos)_Maurício_Pereira_Turbilhão_de_Ritmos.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "AURORA feat. Pomme",
+      "artist": "Everything Matters",
+      "has_synced": true,
+      "path": "select/13_AURORA_feat._Pomme_Everything_Matters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aurora (feat. Callin' D)",
+      "artist": "M2U",
+      "has_synced": false,
+      "path": "select/14_Aurora_(feat._Callin'_D)_M2U.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Aurora feat. Naimee Coleman",
+      "artist": "Ordinary world",
+      "has_synced": true,
+      "path": "select/15_Aurora_feat._Naimee_Coleman_Ordinary_world.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aurora (feat. 柊人)",
+      "artist": "AZU",
+      "has_synced": false,
+      "path": "select/pl_01_Aurora_(feat._柊人)_AZU.txt"
+    }
+  ]
+}
